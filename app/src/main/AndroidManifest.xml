@@ -19,8 +19,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".VideoVLCActivity"
-            >
+            android:name=".VideoVLCActivity">
         </activity>
     </application>
 
